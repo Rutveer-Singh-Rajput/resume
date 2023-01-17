@@ -1,0 +1,75 @@
+body{
+   text-align: center;
+   
+}
+
+.top{
+    background-color: aqua;
+    padding: 50px 100px 0px 50px;
+    font-family: Sofia;
+}
+.pro{
+    height: 300px;
+    width: 300px;
+    border-radius:90% ;
+}
+.mountain{
+    position: relative;
+}
+.topcloud{
+    position:absolute;
+    right:300px;
+    bottom:50;
+}
+.bottomcloud{
+    position: absolute;
+    right: 850px;
+}
+hr{
+    border-style: dotted;
+    border-color: burlywood;
+}
+
+.dsaa{
+    float: left;
+    border-radius: 50%;
+    height:100px;
+    width:100px;
+}
+.webb{
+    float: right;
+    border-radius: 50%;
+    height:100px;
+    width:100px;
+}
+.dsa{
+    width:30%;
+    margin:100px 450px;
+}
+.dsa p
+{
+   position: relative;
+   top:35px;
+}
+.javaa{
+    float: right;
+    border-radius: 50%;
+    height:100px;
+    width:100px;   
+}
+.java{
+    width:30%;
+    margin:40px 450px;
+
+}
+h1{
+    color:chocolate
+}
+footer{
+    background-color: gold;
+    padding:30px 20px;
+    margin: 50px,60px;
+}
+a{
+    margin-right:20px
+}
